@@ -1,7 +1,7 @@
 # 👋 Hey there, I'm **Nikunj Panchal**
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=24&duration=3000&color=0079eb&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;Web+Application+Builder;Problem+Solver;Tech+Explorer;UI/UX+Designer;" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=35&duration=3000&color=0079eb&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;Web+Application+Builder;Problem+Solver;Tech+Explorer;UI/UX+Designer;" />
 </p>
 
 <p align="center">
