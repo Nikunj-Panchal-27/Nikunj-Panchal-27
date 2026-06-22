@@ -116,7 +116,7 @@ A classic Tic Tac Toe game developed using Java.
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
 </a>
 
-<a href="https://your-portfolio-link.com">
+<a href="https://nikunj-resume-portfolio.great-site.net/">
 <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
 </a>
 
